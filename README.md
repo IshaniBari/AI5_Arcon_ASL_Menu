@@ -40,10 +40,6 @@ Trying out predict, uploading image of 'B' ASL gesture to get the prediction lab
 
 <b>2. Frontend App Container:<br></b>
 Simple frontend app that uses basic HTML & Javascript. Exposes port 8080 from the container to the outside for the web server.
-<ul>
-  <li> Downloads the best model from GCP bucket using the json file in secrets folder and stores it in the persistent_folder.</li>
-  <li> Uses the best model to predict the ASL gesture of the input image (image uploaded by the user).</li>
-</ul>
 
 
 <b>Frontend App Container (Predict Page) running locally at http://localhost:8080/predict.html</b><br>
