@@ -55,7 +55,7 @@ When 'Order Now!' button on menu.html page is clicked, it takes to predict.html 
 <img width="960" alt="Frontend_menu" src="https://user-images.githubusercontent.com/70897069/200834853-2c19862b-e414-4280-bbfe-5084412c0fc8.png">
 
 
-<b> Prediction Example</b>
+<b> Prediction Example ON 'B' ASL gesture image</b>
   
 <img width="960" alt="Frontend_prediction_B" src="https://user-images.githubusercontent.com/70897069/200834915-50305de7-b87d-418e-a880-2ddbcabfef5d.png">
 
