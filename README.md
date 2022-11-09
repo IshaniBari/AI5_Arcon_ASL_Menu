@@ -9,7 +9,7 @@ Since they are taught sign – language as an alternative to the standard way of
 Upload an ASL gesture and the app will identify it and recommend you the food to be ordered (For eg. if a person wants to have a burger, he can upload the image of 'B' gesture in ASL language and the app would show predicted alphabet as well as the food suggested) in order to help both the customer and the retailer to have a better engagement whilst having a conversation.
 
 ### Solution Architecture-
-<img width="950" alt="image" src="https://user-images.githubusercontent.com/70897069/200819238-8a2b50e1-d2c0-4bc7-8379-19a9a445082c.png">
+<img width="950" alt="image" src="https://user-images.githubusercontent.com/70897069/200838761-f530e8d8-fa0b-4b9a-9284-3980d0ffc092.png">
 
 ### Technical Architecture-
 <img width="950" alt="image" src="https://user-images.githubusercontent.com/70897069/200819980-3502e1d1-1b2f-4f3c-80df-30961b308c26.png">
