@@ -81,7 +81,7 @@ When 'Order Now!' button on menu.html page is clicked, it takes to predict.html 
 
 #### Automated the deployment using Ansibe-
 1. Setup local container to connect to GCP (arcon-app-deployment) <br>
-Created 2 service accounts along with the already existing bucket-reader service account-
+Created 2 service accounts besides the already existing bucket-reader service account-
 <ul>
   <li>deployment - Has admin access to the group GCP project</li>
   <li>gcp-service - Has read access to the group GCP projects GCR</li>
