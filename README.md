@@ -95,5 +95,5 @@ Created 2 service accounts besides the already existing bucket-reader service ac
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/70897069/204770916-28a962b1-c728-4ffb-9a7f-deadec85353f.png">
 
 <B>Deployed app (using Ansible Playbooks) accessed using External IP Address i.e. https://34.100.183.10/  </b>
-![image](https://user-images.githubusercontent.com/70897069/204807336-8318ad31-97a1-4ead-83b2-baba07cdb504.png)
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/70897069/204807691-13864762-f74d-4058-8c95-3deffff1fd0d.png">
 
