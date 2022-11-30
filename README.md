@@ -94,5 +94,5 @@ Created 2 service accounts besides the already existing bucket-reader service ac
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/70897069/204770916-28a962b1-c728-4ffb-9a7f-deadec85353f.png">
 
-<B>Deployed app (using Ansible Playbooks) accessed using VM IP Address i.e. https://35.200.152.89/  </b>
+<B>Deployed app (using Ansible Playbooks) accessed using VM IP Address i.e. https://34.100.183.10/  </b>
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/70897069/204780339-4685ef26-4927-49a2-9469-31182264094b.png">
