@@ -79,7 +79,7 @@ When 'Order Now!' button on menu.html page is clicked, it takes to predict.html 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/70897069/204779827-75cee1b0-d6e7-4b14-a4c6-5ab6587088b2.png">
 
 
-#### Automated the deployment using Ansibe-
+#### Automated the deployment using Ansible-
 1. Setup local container to connect to GCP (arcon-app-deployment) <br>
 Created 2 service accounts besides the already existing bucket-reader service account-
 <ul>
