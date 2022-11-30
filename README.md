@@ -80,11 +80,16 @@ When 'Order Now!' button on menu.html page is clicked, it takes to predict.html 
 
 
 #### Automated the deployment using Ansibe-
-1. Setup local container to connect to GCP (arcon-app-deployment)
-2. Built and pushed docker images to GCR
-3. Created Compute Instance (VM) in GCP
-4. Provisioned the server (Installed required softwares)
-5. Setup Docker containers in VM Instance
+1. Setup local container to connect to GCP (arcon-app-deployment) <br>
+Created 2 service accounts-
+<ul>
+  <li>deployment - Has admin access to the group GCP project</li>
+  <li>gcp-service - Has read access to the group GCP projects GCR</li>
+ </ul>
+2. Built and pushed docker images to GCR<br>
+3. Created Compute Instance (VM) in GCP<br>
+4. Provisioned the server (Installed required softwares)<br>
+5. Setup Docker containers in VM Instance<br>
 6. Setup a web server to expose the app to the outside world.
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/70897069/204770916-28a962b1-c728-4ffb-9a7f-deadec85353f.png">
