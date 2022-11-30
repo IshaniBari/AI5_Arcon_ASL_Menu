@@ -60,5 +60,34 @@ When 'Order Now!' button on menu.html page is clicked, it takes to predict.html 
 <img width="960" alt="Frontend_prediction_B" src="https://user-images.githubusercontent.com/70897069/200834915-50305de7-b87d-418e-a880-2ddbcabfef5d.png">
 
 
-  
-  
+ 
+### Deployment-
+#### Manual deployment steps followed-
+1. Built and pushed docker images to Docker Hub
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/70897069/204767293-b7e5afbe-ae1e-4f41-99f0-95b503d60bac.png">
+
+
+2. Created Compute Instance (VM) in GCP 
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/70897069/204768009-5a54edc1-5aa4-495a-95b9-6b15c17181c4.png">
+
+
+3. Provisioned the server (Installed required softwares)
+4. Setup Docker containers in VM Instance.
+5. Setup a web server to expose the app to the outside world.
+
+<B>Deployed app accessed using VM IP Address i.e. https://35.200.152.89/  </b>
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/70897069/204779827-75cee1b0-d6e7-4b14-a4c6-5ab6587088b2.png">
+
+
+#### Automated the deployment using Ansibe-
+1. Setup local container to connect to GCP (arcon-app-deployment)
+2. Built and pushed docker images to GCR
+3. Created Compute Instance (VM) in GCP
+4. Provisioned the server (Installed required softwares)
+5. Setup Docker containers in VM Instance
+6. Setup a web server to expose the app to the outside world.
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/70897069/204770916-28a962b1-c728-4ffb-9a7f-deadec85353f.png">
+
+<B>Deployed app (using Ansible Playbooks) accessed using VM IP Address i.e. https://35.200.152.89/  </b>
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/70897069/204780339-4685ef26-4927-49a2-9469-31182264094b.png">
