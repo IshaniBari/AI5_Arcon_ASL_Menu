@@ -97,3 +97,11 @@ Created 2 service accounts besides the already existing bucket-reader service ac
 <B>Deployed app (using Ansible Playbooks) accessed using External IP Address i.e. https://34.100.183.10/  </b>
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/70897069/204807691-13864762-f74d-4058-8c95-3deffff1fd0d.png">
 
+
+#### Arcon App - Kubernetes Deployment
+Created a Deployment Yaml file (Ansible Playbook) and used it to create and deploy the app to Kubernetes Cluster.
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/70897069/205050325-d70faba2-b6cd-4172-aa4d-127fa60633b9.png">
+
+<B>Deployed app to Kubernetes cluster accessed using nginx_ingress_ip i.e. http://35.72.65.225.sslip.io  </b>
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/70897069/205050511-1139aef0-2ae5-418d-aa8e-96a70f1d356e.png">
+
