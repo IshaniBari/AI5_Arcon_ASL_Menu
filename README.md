@@ -1,6 +1,8 @@
 # AI5_Arcon_ASL_Menu
 ### AI5 Group6 Project - Arcon ASL Menu
 
+### Link to medium post: https://medium.com/@sahniraghavdlf/asl-menu-application-d797068310b5
+
 ### Problem Definition- <br>
 The basic ideology behind this project was to make any customer-based utility service more friendly for the people who are disabled (deaf and mute specifically)
 Since they are taught sign – language as an alternative to the standard way of interacting with others to overcome the barriers of communication, a lot of them face problems in the day–to–day life like ordering food at a “Drive-thru” or having a conversation with an attendant who is oblivious to their predicament and whose incompetence might be a bit irritating for the person who is disabled.
